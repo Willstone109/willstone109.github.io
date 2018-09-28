@@ -18,17 +18,17 @@ html {
   text-align: center;
 }
 h1{
-  font-weight: 100;
+  font-weight: 300;
   letter-spacing: 4;
   font-size: 40px;
 }
 
 h3{
-  font-weight: 150;
+  font-weight: 350;
 }
 
 p{
-  font-weight: 275;
+  font-weight: 500;
 }
 /* .prof-pic{
   border-radius: 50%;
