@@ -1,0 +1,38 @@
+html {
+  background: url(../images/samantha_macrae_foerster2.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Helvetica Neue', sans-serif;
+}
+
+.prof-box {
+  width: 400px;
+  height: 1200px;
+  background: rgba(0,0,0,0.4);
+  padding: 40px;
+  color: white;
+  margin: 0 auto;
+  margin-top: 40px;
+  text-align: center;
+}
+h1{
+  font-weight: 100;
+  letter-spacing: 4;
+  font-size: 40px;
+}
+
+h3{
+  font-weight: 150;
+}
+
+p{
+  font-weight: 275;
+}
+/* .prof-pic{
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+
+} */
