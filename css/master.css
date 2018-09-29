@@ -6,6 +6,11 @@ html {
   background-size: cover;
   font-family: 'Helvetica Neue', sans-serif;
 }
+.top-pic{
+width: 400px;
+height: 100px;
+
+}
 
 .prof-box {
   width: 400px;
