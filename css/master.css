@@ -17,7 +17,7 @@ html {
   margin-bottom: 40px;
   text-align: center;
 }
-.top-pic{
+.top-pic {
   width: 275px;
   height: 275px;
 }
@@ -34,9 +34,12 @@ h3{
 p{
   font-weight: 500;
 }
-/* .prof-pic{
-  border-radius: 50%;
-  height: 200px;
-  width: 200px;
 
-} */
+.social-media {
+  font-size: 30px;
+}
+
+.social-media a {
+  color: white;
+
+}
